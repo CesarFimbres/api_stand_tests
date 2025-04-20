@@ -68,3 +68,5 @@ Estas pruebas verifican que la API rechaza valores inválidos para el parámetro
 
 - Asegúrate de que la API esté en funcionamiento antes de ejecutar las pruebas.
 - Si necesitas modificar los datos de prueba, actualiza el archivo data.py o las funciones auxiliares según sea necesario.
+
+Este repositorio ha sido vinculado mediante `protocolo SSH`
